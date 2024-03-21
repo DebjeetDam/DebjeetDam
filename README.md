@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React, HTML/CSS, JavaScript**
 
-- 📫 How to reach me **debjeet.dam95@gmail.com**
+- 📫 How to reach me **debjeetdamutd@gmail.com**
 
 - ⚡ Fun fact **I also make music**
 

@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ![Gif Github](https://github.com/DebjeetDam/DebjeetDam/assets/109764957/11e27e2a-76a8-423e-9c8c-2ddf4942dcca)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debjeetdam&show_icons=true&locale=en&layout=compact&hide=python" alt="debjeetdam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debjeetdam&show_icons=true&locale=en&layout=compact&" alt="debjeetdam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debjeetdam&show_icons=true&locale=en" alt="debjeetdam" /></p>
 

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debjeetdam" alt="debjeetdam" /></a> </p>
 -->
 
-<h1 align="center">Hi 👋, I'm Debjeet Dam</h1>
+<h1 align="center">Hi 👋, I'm Deb</h1>
 <h3 align="center">I deliver successful projects that meet business objectives.</h3>
 
 - 🔭 I’m currently working on **Algorithms and Data Structures**

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Algorithms and Data Structures**
 
-- 🌱 I’m currently learning **DevOps, AWS**
+- 🌱 I’m currently learning **TypeScript, React 18 Hooks**
 
 - 💬 Ask me about **React, HTML/CSS, JavaScript**
 
